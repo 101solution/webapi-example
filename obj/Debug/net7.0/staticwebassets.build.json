@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8YOuH8Af4v/RjfmujH21u627l+VHL4jPiUZT3ObHZhM=",
+  "Source": "101s.webapi.example",
+  "BasePath": "_content/101s.webapi.example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

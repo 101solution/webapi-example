@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\101s.webapi.example.props" />
+</Project>
